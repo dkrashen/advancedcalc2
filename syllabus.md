@@ -14,26 +14,37 @@ Syllabus and Course Structure
 Material
 ---
 
-This is primarily a course in metric spaces, including notions of continuity, limits, and compactness, as well as the study of spaces of functions.
+This is primarily a course in metric spaces, including notions of continuity, limits, and compactness, with a particular emphasis on the study of spaces of functions.
 Our main source will be **Basic Analysis I and Basic Analysis II** by J. Lebl, available digitally free of charge at [https://www.jirka.org/ra/](https://www.jirka.org/ra/) or in hardcopy from Amazon [https://amazon.com/dp/1718865481](https://amazon.com/dp/1718865481) and [https://amazon.com/dp/1718862407](https://amazon.com/dp/1718862407).
 
 We will cover roughly the material in chapter 7 of Volume I, and much of Volume II, with an emphasis on the topics towards the end of the book.
 
+Lecture format
+---
+
+Lectures will be in person in David Rittenhouse Laboratory. **Masks are required during lecture**. In class worksheets can be excused in case you are not able to attend a lecture due to illness (let me know by email if this happens).
+
+Videos will not be recorded, but written notes will be made available within 24 hours of each lecture on the course website.
+
 Course Structure
 ---
 
-Short assignments based on assigned reading will be made available Thursday after lecture and Tuesday evenings, due roughly 24 hours after being posted. These will be primarily graded for completion, and you will have the opportunity here to give feedback on your understanding of the material, so that I know which things are well understood and which things are less clear to everyone. In addition, there will be a standard length weekly homework assignment given out on Tuesday and due Thursday. Finally, once a month we will have longer cumulative homework assignments.
+- Lectures on Tuesday and Thursdays 3:30-5:00pm in DRL 2C6
+- Weekly reading assigned on Thursdays and due the following week on Tuesday
+- In class worksheets
+- Weekly homework sets assigned on Thursdays and due the following week on Thursday
+- 3 in class exams during the semester
 
 In the lectures, I will assume that all students have done the assigned reading. I will try to supplement the material by adding extra details and examples as needed.
 
 Grading
 ---
 
-The course grade will be based on these homework assignments as follows:
+The course grade will be as follows:
 
-- semiweekly assignments: 40% total (drop lowest 3)
-- weekly assignments: 30% total (drop lowest 2)
-- monthly assignments: 30% total (drop lowest 1)
+- in class worksheets: 10% total (drop lowest 5)
+- weekly assignments: 30% total (drop lowest 3)
+- in class exams: 60% total (lowest score counts for 10%, middle score counts for 20%, highest score counts for 30%)
 
 How to be successful
 ---

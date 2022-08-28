@@ -19,12 +19,13 @@ Our main source will be **Basic Analysis I and Basic Analysis II** by J. Lebl, a
 
 We will cover roughly the material in chapter 7 of Volume I, and much of Volume II, with an emphasis on the topics towards the end of the book.
 
-Lecture format
+Lectures
 ---
 
-Lectures will be in person in David Rittenhouse Laboratory. **Masks are required during lecture**. In class worksheets can be excused in case you are not able to attend a lecture due to illness (let me know by email if this happens).
-
-Videos will not be recorded, but written notes will be made available within 24 hours of each lecture on the course website.
+- Lectures will be in person in David Rittenhouse Laboratory
+- **Masks are required during lecture**
+- In class worksheets will be assigned during most lectures, but can be excused in case you are not able to attend a lecture due to illness or other valid reasons (let me know by email if this happens)
+- Lectures will not be recorded, but written notes will be made available within 24 hours of each lecture on the course website
 
 Course Structure
 ---

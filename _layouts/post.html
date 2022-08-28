@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="row well">
+<div class="col-md-12">
+    <h3>{{ page.title }}</h3>
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+  {{ content }}
+  </article>
+
+</div>
+</div>

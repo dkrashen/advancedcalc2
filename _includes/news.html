@@ -1,0 +1,28 @@
+  <ul class="posts list-unstyled">
+    {% for post in site.posts limit:5 %}
+<div class="row well"> <!-- inner row well 1 (left) -->
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link"
+          href="{{ post.url | prepend: site.baseurl }}"
+          >{{ post.title }}</a>
+        <p> {{ post.content }} </p>
+      </li>
+</div> <!-- /inner row well 1 (left) -->
+    {% endfor %}
+  </ul>
+
+{% for post in site.posts offset:1 limit:1 %}
+{% comment %} i.e. if not empty then do... {% endcomment %}
+<div class="row well"> <!-- inner row well 3 (left) -->
+  <h3> News Archive </h3>
+  <ul class="list-unstyled">
+    {% for post in site.posts %}
+      <li>
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div> <!-- /inner row well 3 (left) -->
+{% endfor %}

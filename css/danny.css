@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'exo';
+  src: url("fonts/Exo-Light.ttf"); }
+@font-face {
+  font-family: 'exobold';
+  src: url("fonts/Exo-Medium.ttf"); }
+* {
+  font-family: 'exo';
+  color: black; }
+
+div.header-row {
+  margin-top: 30px; }
+
+img#portrait {
+  max-height: 150px; }
+
+img#actionpic {
+  max-height: 240px; }
+
+.nav a {
+  background-color: #d0d7df; }
+
+.github-icon-svg,
+.twitter-icon-svg,
+.soundcloud-icon-svg {
+  display: inline-block;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  top: 3px; }
+
+a { color: #166; }
+

@@ -1,3 +1,6 @@
 - title: "Lecture 1"
   description: "Introductions and the definition of a metric space."
   filename: "lecture1.pdf"
+- title: "Lecture 2"
+  description: "The Euclidean metric and the Cauchy-Schwartz inequality. Sequences and convergence."
+  filename: "lecture2.pdf"

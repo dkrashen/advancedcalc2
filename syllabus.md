@@ -47,6 +47,8 @@ The course grade will be as follows:
 - weekly assignments: 30% total (drop lowest 3)
 - in class exams: 60% total (lowest score counts for 10%, middle score counts for 20%, highest score counts for 30%)
 
+Tentative exam dates: Thursday, September 29; Thursday, November 3; Thursday, December 1.
+
 How to be successful
 ---
 

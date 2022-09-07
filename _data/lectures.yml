@@ -4,3 +4,6 @@
 - title: "Lecture 2"
   description: "The Euclidean metric and the Cauchy-Schwartz inequality. Sequences and convergence."
   filename: "lecture2.pdf"
+- title: "Lecture 3"
+  description: "Introduction to the concepts of topology: open and closed sets."
+  filename: "lecture3.pdf"

@@ -16,3 +16,6 @@
 - title: "Lecture 6"
   description: "Compactness, part 2 (compactness is sequential compactness)"
   filename: "lecture6.pdf"
+- title: "Lecture 7"
+  description: "Continuity of maps between metric spaces"
+  filename: "lecture7.pdf"

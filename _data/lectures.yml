@@ -22,3 +22,6 @@
 - title: "Lecture 8"
   description: "Continuity and compactness"
   filename: "lecture8.pdf"
+- title: "Lecture 9"
+  description: "Extending continuous maps via uniform continuity"
+  filename: "lecture9.pdf"

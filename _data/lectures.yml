@@ -25,3 +25,6 @@
 - title: "Lecture 9"
   description: "Extending continuous maps via uniform continuity"
   filename: "lecture9.pdf"
+- title: "Lecture 10"
+  description: "Towards differentiation (linear algebra review)"
+  filename: "lecture10.pdf"

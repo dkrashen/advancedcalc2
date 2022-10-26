@@ -40,3 +40,6 @@
 - title: "Lecture 14"
   description: "Computing some derivatives"
   filename: "lecture14.pdf"
+- title: "Lecture 15"
+  description: "More derivative computation, sketch of inverse function theorem"
+  filename: "lecture15.pdf"

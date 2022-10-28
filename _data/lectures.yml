@@ -43,3 +43,6 @@
 - title: "Lecture 15"
   description: "More derivative computation, sketch of inverse function theorem"
   filename: "lecture15.pdf"
+- title: "Lecture 16"
+  description: "Mean values and bits of the inverse function theorem"
+  filename: "lecture16.pdf"
